@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "1b03db20c6a11bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f65037b2cb1012f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8847738f0199fe8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы маршрутизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d28000f05780efe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8be87dd1d1a8f460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cdec9854677de5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0da24246f5a7e58f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c158a0f514fb0a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "638050752c9791b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "109da9dedfe6423b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d2444b3b7adbe5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Основы маршрутизации.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b73a7410de10a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Основы маршрутизации.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80613ede279f528b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1907888cffea3d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Основы маршрутизации.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8847738f0199fe8d",
+  "lastOpenFiles": [
+    "Основы маршрутизации.md"
+  ]
+}
