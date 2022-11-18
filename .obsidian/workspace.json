@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "32755c4e02405b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "510d02cbd64b018a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ff7ec0b5e78985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ларавел. Основы/Маршрутизация/Основы маршрутизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d6c8b8e747ea025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ларавел. Основы/Маршрутизация/Основы маршрутизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9af76cb6c9b2a2ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "a916d31fc3fba4e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6ae3bf04c169d5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bda02b73e01495a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f77bef5773934669",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8f805e0fdb34546",
+    "type": "split",
+    "children": [
+      {
+        "id": "298a01ff7174adad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ead1a538ab6edbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ларавел. Основы/Маршрутизация/Основы маршрутизации.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f340c4044737e028",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ларавел. Основы/Маршрутизация/Основы маршрутизации.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98e78f91551e2487",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fdc425415fbd3d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ларавел. Основы/Маршрутизация/Основы маршрутизации.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d6c8b8e747ea025",
+  "lastOpenFiles": [
+    "Ларавел. Основы/Маршрутизация/Параметры маршрутизаторов.md",
+    "Ларавел. Основы/Маршрутизация/Основы маршрутизации.md"
+  ]
+}
